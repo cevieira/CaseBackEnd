@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CaseBackEnd.Domain</id>
+    <version>1.0.0</version>
+    <authors>CaseBackEnd.Domain</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR.Extensions.Microsoft.DependencyInjection" version="11.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="5.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.runtimeconfig.json" target="lib\net5.0\CaseBackEnd.Domain.runtimeconfig.json" />
+    <file src="C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.dll" target="lib\net5.0\CaseBackEnd.Domain.dll" />
+  </files>
+</package>

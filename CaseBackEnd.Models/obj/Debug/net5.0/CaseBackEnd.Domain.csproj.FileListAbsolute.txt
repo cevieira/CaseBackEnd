@@ -1,0 +1,15 @@
+C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.deps.json
+C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.runtimeconfig.json
+C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.runtimeconfig.dev.json
+C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.dll
+C:\dev\proj\CaseBackEnd.Models\bin\Debug\net5.0\CaseBackEnd.Domain.pdb
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.csproj.AssemblyReference.cache
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.AssemblyInfoInputs.cache
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.AssemblyInfo.cs
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.csproj.CoreCompileInputs.cache
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.dll
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\refint\CaseBackEnd.Domain.dll
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.pdb
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\CaseBackEnd.Domain.genruntimeconfig.cache
+C:\dev\proj\CaseBackEnd.Models\obj\Debug\net5.0\ref\CaseBackEnd.Domain.dll

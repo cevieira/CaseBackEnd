@@ -1,0 +1,15 @@
+C:\dev\proj\CaseBackEnd.Infra\bin\Debug\net5.0\CaseBackEnd.Infra.deps.json
+C:\dev\proj\CaseBackEnd.Infra\bin\Debug\net5.0\CaseBackEnd.Infra.dll
+C:\dev\proj\CaseBackEnd.Infra\bin\Debug\net5.0\CaseBackEnd.Infra.pdb
+C:\dev\proj\CaseBackEnd.Infra\bin\Debug\net5.0\CaseBackEnd.Domain.dll
+C:\dev\proj\CaseBackEnd.Infra\bin\Debug\net5.0\CaseBackEnd.Domain.pdb
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.csproj.AssemblyReference.cache
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.AssemblyInfoInputs.cache
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.AssemblyInfo.cs
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.csproj.CoreCompileInputs.cache
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.csproj.CopyComplete
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.dll
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\refint\CaseBackEnd.Infra.dll
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\CaseBackEnd.Infra.pdb
+C:\dev\proj\CaseBackEnd.Infra\obj\Debug\net5.0\ref\CaseBackEnd.Infra.dll
